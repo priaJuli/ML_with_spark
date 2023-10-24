@@ -2,7 +2,7 @@
 
 This is My portofolio for showing my ability for first try using apache spark for Machine Learning
 
-> **_NOTE:_**  To showing my high adaptability to any current technology in machine learning or data science.
+> To showing my high adaptability to any current technology in machine learning or data science.
 
 ---
 **NOTE**
